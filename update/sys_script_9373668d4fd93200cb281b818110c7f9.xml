@@ -49,8 +49,7 @@
     current.setAbortAction(true);
   }
 
-})(current, previous);
-]]></script>
+})(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-03-03 00:44:14</sys_created_on>
